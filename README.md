@@ -82,7 +82,7 @@ Kaggle API authentication successful!
 
 ---
 
-## 👥 6. Download a Dataset from Kaggle
+##  6. Download a Dataset from Kaggle
 To download a dataset (e.g., **CIC-DDoS2019 dataset**), run:
 ```python
 # Download dataset
@@ -136,7 +136,7 @@ pip install kaggle
 
 ---
 
-## 🔗 References:
+## References:
 - **Official Kaggle API Docs:** [https://www.kaggle.com/docs/api](https://www.kaggle.com/docs/api)
 
 ---
