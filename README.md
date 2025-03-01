@@ -4,7 +4,7 @@ This guide explains how to **set up the Kaggle API**, authenticate using `kaggle
 
 ---
 
-## 🚀 1. Prerequisites
+## 1. Prerequisites
 Before using the Kaggle API, ensure you have the following installed:
 - **Python 3.x**
 - **pip (Python package manager)**
@@ -17,7 +17,7 @@ python --version
 
 ---
 
-## 🛠️ 2. Install the Kaggle API Package
+## 2. Install the Kaggle API Package
 Run the following command in your terminal or command prompt:
 ```sh
 pip install kaggle
@@ -138,7 +138,6 @@ pip install kaggle
 
 ## 🔗 References:
 - **Official Kaggle API Docs:** [https://www.kaggle.com/docs/api](https://www.kaggle.com/docs/api)
-- **CIC-DDoS2019 Dataset:** [https://www.unb.ca/cic/datasets/ddos-2019.html](https://www.unb.ca/cic/datasets/ddos-2019.html)
 
 ---
 
